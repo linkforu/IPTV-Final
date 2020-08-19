@@ -94,7 +94,7 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 http://ccn.anytv.live:8080/sonyaath/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="ENTERTAINMENT",Akash Aath
-http://tvserver.dflix.live:8082/32/index.m3u8?token=7514995683a4b74a7ed5f34469e03d8912a4ba8c-1451d591d6f7bdca09abfe9a0e4ee7e1-1597681903-1597671103&remote=202.58.252.52
+https://itpolly.iptv.digijadoo.net/live/aakashaath/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="ENTERTAINMENT",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
