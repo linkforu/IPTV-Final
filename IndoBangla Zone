@@ -90,6 +90,12 @@ https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="ENTERTAINMENT",Colors Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="ENTERTAINMENT",Sony Aath
+http://ccn.anytv.live:8080/sonyaath/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="ENTERTAINMENT",Akash Aath
+http://tvserver.dflix.live:8082/32/index.m3u8?token=7514995683a4b74a7ed5f34469e03d8912a4ba8c-1451d591d6f7bdca09abfe9a0e4ee7e1-1597681903-1597671103&remote=202.58.252.52
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="ENTERTAINMENT",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
@@ -111,10 +117,13 @@ http://dflix.live:8082/29/index.m3u8?token=ee36f2f43df6bc68d0ee538a9d0fb043b35e1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="Movie",Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="Movie",Sony Max
+http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Movie",Star Gold HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Movie",Star Gold International
+#EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Movie",Star Gold SD
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image43c0e0062d57475e.png" group-title="Movie",Star Gold 2
@@ -125,6 +134,9 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="Movie",Zee Bollywood
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="Movie",Sony Pix
+http://103.205.133.14/hls/sonypix.m3u8
 
 #EXTINF:0 tvg-id="" tvg-language="English" tvg-name="" tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="Movie",Star Movies HD
 http://175.41.46.16:8081/hls/2.m3u8
@@ -150,14 +162,26 @@ https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-1.jpg" group-title="Sports",Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/104/index.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="FTPBD",Star Sports Select 2 HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FStar_Sports_1&psig=AOvVaw0VESn7EsbjHAV3OcE4kkeI&ust=1597896542344000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOif_s-ypusCFQAAAAAdAAAAABAD group-title="FTPBD",Star Sports 1 HD
+http://otv.ftpbd.net/streams/113/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",Star Sports 2 HD
 http://otv.ftpbd.net/streams/116/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="ICC 2",Sony Six HD
+http://103.205.133.14/hls/sonysix.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports",Sony Ten 1
 http://otv.ftpbd.net/streams/105/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony Ten 2 HD
-http://103.205.133.14/hls/ten2.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="FTPBD",Sony Ten 2 HD
+http://otv.ftpbd.net/streams/112/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="ICC 2",Sony Ten 3
+http://103.205.133.14/hls/ten3.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
