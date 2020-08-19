@@ -138,7 +138,7 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="Movie",Sony Pix
 http://103.205.133.14/hls/sonypix.m3u8
 
-#EXTINF:0 tvg-id="" tvg-language="English" tvg-name="" tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="Movie",Star Movies HD
+#EXTINF:0 tvg-id="" tvg-language="English" tvg-name="" tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="Movie",Star Movies
 http://175.41.46.16:8081/hls/2.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/mmuxT5C.png" group-title="Movie",Star World
@@ -175,7 +175,7 @@ http://otv.ftpbd.net/streams/116/index.m3u8
 http://103.205.133.14/hls/sonysix.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports",Sony Ten 1
-http://otv.ftpbd.net/streams/105/index.m3u8
+http://175.41.46.16:8081/hls/6.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports",Sony Ten 2 HD
 http://otv.ftpbd.net/streams/112/index.m3u8
