@@ -166,10 +166,16 @@ http://otv.ftpbd.net/streams/104/index.m3u8
 http://otv.ftpbd.net/streams/114/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FStar_Sports_1&psig=AOvVaw0VESn7EsbjHAV3OcE4kkeI&ust=1597896542344000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOif_s-ypusCFQAAAAAdAAAAABAD group-title="Sports",Star Sports 1 HD
-http://otv.ftpbd.net/streams/113/index.m3u8
+http://pioneer.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",Star Sports 2 HD
 http://otv.ftpbd.net/streams/116/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1
+http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-2.jpg" group-title="Sports",Star Sports 2
+http://pioneer.anytv.live:8080/starsp2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six HD
 http://103.205.133.14/hls/sonysix.m3u8
