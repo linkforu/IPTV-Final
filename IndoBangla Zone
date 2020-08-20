@@ -164,6 +164,8 @@ https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/srRLjLe.png" group-title="Music",MTV Beats India
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bizasialive.com%2Fuk-tv-reach-b4u-music-leads-music-genre-in-uk%2F&psig=AOvVaw16vUsJ1Z9sgX-8S8mQN-Eu&ust=1598042943641000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjgh4PUqusCFQAAAAAdAAAAABAm" group-title="Music",B4U
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-1.jpg" group-title="Sports",Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/104/index.m3u8
