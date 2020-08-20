@@ -144,6 +144,9 @@ https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="Movie",Sony Pix
 http://103.205.133.14/hls/sonypix.m3u8
 
+#EXTINF:0 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0?e=2159024400&v=beta&t=mPgaHJptUSNhDrVLO6lphkh84afgRCbrnJSVTThvyzs" group-title="Movie",HBO
+http://otv.ftpbd.net/streams/111/index.m3u8?remote:103.58.73.8:80
+
 #EXTINF:0 tvg-id="" tvg-language="English" tvg-name="" tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="Movie",Star Movies
 http://175.41.46.16:8081/hls/2.m3u8
 
