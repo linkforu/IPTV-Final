@@ -49,7 +49,7 @@ https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangladesh",Ekattor TV
-https://edge4.bioscopelive.com/hls/anonymous/XnSBNjJHRmzGHCQCelIuow/1597953367/ekattur_tv_hi/index.m3u8
+http://dflix.live:8082/11/index.m3u8?token=dd491e7a71f31422101d1a97c9c915bccaf94ec4-56a83d41bc4ef35ac1b16b1bf52761a4-1597964484-1597953684&remote=103.58.73.174
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladesh",Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
