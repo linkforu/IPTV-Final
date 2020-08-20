@@ -135,6 +135,9 @@ https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Movie",Zee Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_580/PORTRAIT/sjM1MbFR.png" group-title="Movie",Zee Cinema HD
+http://dflix.live:8082/76/index.m3u8?token=a93622bebc5fa90469c858d134193e9763253a8a-2ade18e4646d0c6598f6ace00bc723b6-1597964914-1597954114&remote=103.58.73.174
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="Movie",Zee Bollywood
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
@@ -244,4 +247,7 @@ https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="Kids",Nick HD+
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/9a/fd/2f/9afd2fd04efbc029d29108b02410ad0e.gif" group-title="Kids",CN
+http://dflix.live:8082/79/index.m3u8?token=bcd655c17e54c24550be443b5471f5c98a815499-407341c99f1f1ecb5ff5085bb9e1c278-1597965264-1597954464&remote=103.58.73.174
 
