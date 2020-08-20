@@ -48,6 +48,9 @@ https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladesh",Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangladesh",Ekattor TV
+https://edge4.bioscopelive.com/hls/anonymous/XnSBNjJHRmzGHCQCelIuow/1597953367/ekattur_tv_hi/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladesh",Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 
@@ -94,7 +97,7 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 http://ccn.anytv.live:8080/sonyaath/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="ENTERTAINMENT",Akash Aath
-https://itpolly.iptv.digijadoo.net/live/aakashaath/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/aakash_aath/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/eeVao6V.png" group-title="ENTERTAINMENT",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
@@ -112,7 +115,7 @@ https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="Movie",Zee Bangla Cinema
-http://dflix.live:8082/29/index.m3u8?token=ee36f2f43df6bc68d0ee538a9d0fb043b35e109f-1f70dd0c67160d5c47ea07f4021d8f69-1597814067-1597803267&remote=103.58.73.174te=103.58.73.174
+http://dflix.live:8082/29/index.m3u8?token=11c2cc8d3a6c7f9f9c6df4332a686b8c36f894ac-1e8b628d4a264e5b911c98238c65f15e-1597958413-1597947613&remote=103.58.73.174=103.58.73.174
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="Movie",Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
