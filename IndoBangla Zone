@@ -49,7 +49,8 @@ https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangladesh",Ekattor TV
-http://dflix.live:8082/11/index.m3u8?remote=103.58.73.174
+http://dflix.live:8082/11/index.m3u8?
+https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladesh",Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
@@ -183,7 +184,7 @@ http://pioneer.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 http://otv.ftpbd.net/streams/116/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports",Star Sports 1
-http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
+http://ccn.anytv.live:8080/starsp2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-2.jpg" group-title="Sports",Star Sports 2
 http://pioneer.anytv.live:8080/starsp2/tracks-v1a1/mono.m3u8
