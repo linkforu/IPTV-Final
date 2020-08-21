@@ -49,7 +49,7 @@ https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangladesh",Ekattor TV
-http://dflix.live:8082/11/index.m3u8?token=dd491e7a71f31422101d1a97c9c915bccaf94ec4-56a83d41bc4ef35ac1b16b1bf52761a4-1597964484-1597953684&remote=103.58.73.174
+http://dflix.live:8082/11/index.m3u8?remote=103.58.73.174
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladesh",Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
@@ -115,7 +115,7 @@ https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="Movie",Zee Bangla Cinema
-http://dflix.live:8082/29/index.m3u8?token=11c2cc8d3a6c7f9f9c6df4332a686b8c36f894ac-1e8b628d4a264e5b911c98238c65f15e-1597958413-1597947613&remote=103.58.73.174=103.58.73.174
+http://dflix.live:8082/29/index.m3u8?remote=103.58.73.174=103.58.73.174
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="Movie",Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
@@ -136,7 +136,7 @@ https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_580/PORTRAIT/sjM1MbFR.png" group-title="Movie",Zee Cinema HD
-http://dflix.live:8082/76/index.m3u8?token=a93622bebc5fa90469c858d134193e9763253a8a-2ade18e4646d0c6598f6ace00bc723b6-1597964914-1597954114&remote=103.58.73.174
+http://dflix.live:8082/76/index.m3u8?remote=103.58.73.174
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/O00Jsl9.png" group-title="Movie",Zee Bollywood
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
@@ -254,5 +254,5 @@ https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/9a/fd/2f/9afd2fd04efbc029d29108b02410ad0e.gif" group-title="Kids",CN
-http://dflix.live:8082/79/index.m3u8?token=bcd655c17e54c24550be443b5471f5c98a815499-407341c99f1f1ecb5ff5085bb9e1c278-1597965264-1597954464&remote=103.58.73.174
+http://dflix.live:8082/79/index.m3u8?remote=103.58.73.174
 
