@@ -116,7 +116,7 @@ https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="Movie",Zee Bangla Cinema
-http://dflix.live:8082/29/index.m3u8?remote=103.58.73.174=103.58.73.174
+https://z5ams.akamaized.net/zbanglacnm/index.m3u8?hdnts=st=1598011630~exp=1598014630~acl=/*~hmac=af2141a5524f5a1570f75573a20e6ab4db91a995c55264932c50a93992d915b9
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="Movie",Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
